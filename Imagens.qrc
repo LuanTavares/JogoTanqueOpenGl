@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Imagens">
+        <file>Imagens/textura.jpg</file>
+    </qresource>
+</RCC>
